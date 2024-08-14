@@ -1,0 +1,1 @@
+You can give any variable name for fs require
